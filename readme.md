@@ -1,6 +1,8 @@
 
 # Vefforritun 1, 2021: Verkefni 1, HTML #1
 
+[Kynning í fyrirlestri](https://youtu.be/8VHvlMpGEu4?t=2119).
+
 Setja skal upp tvær síður, aðgengilegar af internetinu.
 
 * Forsíða, `index.html`, með einhverjum texta ásamt tengli yfir á aðra síðu
